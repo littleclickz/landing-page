@@ -1,0 +1,7 @@
+body {
+    display: flex;
+}
+
+.header, .hero, .info, .quote, .cta, .footer {
+    display: flex;
+}
