@@ -35,6 +35,7 @@ a {
 .hero {
 display: flex;
 background-color: #1f2937;
+padding: 56px 100px 56px 100px;
 }
 
 .hero h1 {
