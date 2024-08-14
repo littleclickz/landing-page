@@ -132,6 +132,11 @@ padding-right: 40px;
 .cta {
 display: flex;
 background-color: #3882f6;
+color: #f9faf8;
+}
+
+.cta a {
+color: #f9faf8;
 }
 
 .footer {
