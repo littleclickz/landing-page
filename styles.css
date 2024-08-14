@@ -11,8 +11,13 @@
     color: #e5e7eb
 }
 
+.header {
+    justify-content: space-between;
+}
+
 ul {
     list-style: none;
+    display: flex;
 }
 .info, .quote {
     display: flex;
