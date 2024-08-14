@@ -43,6 +43,15 @@ background-color: #1f2937;
     font-weight: extra-bold;
 }
 
+.hero p {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.hero a {
+color: #f9faf8;
+}
+
 .info {
 display: flex;
 }
@@ -57,4 +66,8 @@ display: flex;
 
 .footer {
 display: flex;
+}
+
+button {
+    background-color: #3882f6;
 }
