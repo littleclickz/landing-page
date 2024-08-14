@@ -37,6 +37,8 @@ display: flex;
 background-color: #1f2937;
 padding: 56px 100px 56px 100px;
 align-items: flex-start;
+justify-content: space-between;
+gap: 32px;
 }
 
 .hero h1 {
@@ -49,10 +51,15 @@ align-items: flex-start;
 .hero p {
     color: #e5e7eb;
     font-size: 18px;
+    margin: 0px;
 }
 
 .hero a {
 color: #f9faf8;
+}
+
+.hero button {
+    margin: 0;
 }
 
 .content {
@@ -78,8 +85,4 @@ display: flex;
 
 button {
     background-color: #3882f6;
-}
-
-img {
-    max-width: 100%;
 }
