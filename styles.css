@@ -58,6 +58,34 @@ ul {
     font-weight: extra-bold;
 }
 
+.info {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 75px;
+    gap: 24px;
+}
+
+.info-pairs {
+    display: flex;
+    margin-left: 300px;
+    margin-right: 300px;
+    gap: 48px;
+    align-items: center;
+}
+
+.pairs {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.pairs img {
+    border-radius: 25px;
+    border: 3px solid #3882f6;
+    padding: 20px;
+}
+
 .quote {
     background-color: #e5e7eb;
 }
