@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: Roboto;
+}
+
 .header, .hero, .footer {
     display: flex;
     background-color: #1F2937;
