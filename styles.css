@@ -91,4 +91,6 @@ background-color: #3882f6;
 max-width: 90px;
 padding-top: 4px;
 padding-bottom: 4px;
+border-radius: 6px;
+border: none;
 }
