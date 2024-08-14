@@ -39,13 +39,29 @@ ul {
     gap: 16px;
 }
 
+.hero h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+
 .info, .quote {
     display: flex;
     color: #1F2937;
 }
 
+.info h2 {
+    font-size: 36px;
+    font-weight: extra-bold;
+}
+
 .quote {
     background-color: #e5e7eb;
+}
+
+.quote blockquote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
 }
 
 .cta {
