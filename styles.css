@@ -11,6 +11,9 @@
     color: #e5e7eb
 }
 
+ul {
+    list-style: none;
+}
 .info, .quote {
     display: flex;
     color: #1F2937
