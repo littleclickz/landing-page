@@ -136,6 +136,17 @@ color: #f9faf8;
 margin: 100px 200px 100px 200px;
 justify-content: space-between;
 align-items: center;
+padding: 24px 100px 24px 100px;
+}
+
+.cta h3 {
+font-weight: bold;
+font-size: 24px;
+margin: 0;
+}
+
+.cta p {
+margin: 0;
 }
 
 .cta a {
