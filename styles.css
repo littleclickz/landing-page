@@ -6,7 +6,7 @@ body {
     display: flex;
     background-color: #1F2937;
 }
-.header h3, .hero h1, .hero a, .cta a {
+.header h3, .hero-container h1, .hero a, .cta a {
     color: #f9faf8;
 }
 .header a, .hero p {
@@ -30,9 +30,16 @@ ul {
     margin-right: 175px;
     gap: 16px;
 }
-.hero h1 {
+.hero {
+    padding: 150px 175px 150px 175px;
+}
+.hero-container h1 {
     font-size: 48px;
     font-weight: extra-bold;
+}
+.hero-container {
+    display: flex;
+    flex-direction: column;
 }
 .info, .quote {
     display: flex;
