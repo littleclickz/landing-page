@@ -4,3 +4,26 @@ body {
     font-family: Roboto;
 }
 
+.header {
+display: flex;
+}
+
+.hero {
+display: flex;
+}
+
+.info {
+display: flex;
+}
+
+.quote {
+display: flex;
+}
+
+.cta {
+display: flex;
+}
+
+.footer {
+display: flex;
+}
