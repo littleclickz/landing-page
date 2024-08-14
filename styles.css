@@ -36,7 +36,7 @@ a {
 .hero {
 display: flex;
 background-color: #1f2937;
-padding: 72px 200px 72px 200px;
+padding: 72px 200px 110px 200px;
 align-items: stretch;
 justify-content: space-between;
 gap: 72px;
