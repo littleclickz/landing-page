@@ -73,8 +73,15 @@ gap: 8px;
 .info {
 display: flex;
 flex-direction: column;
-padding: 50px 250px 110px 250px;
+padding: 15px 250px 110px 250px;
 align-items: center;
+gap: 24px;
+}
+
+.info h2 {
+font-size: 36px;
+font-weight: extra-bold;
+color: #1f2937;
 }
 
 .info img {
