@@ -135,6 +135,7 @@ background-color: #3882f6;
 color: #f9faf8;
 margin: 100px 200px 100px 200px;
 justify-content: space-between;
+align-items: center;
 }
 
 .cta a {
