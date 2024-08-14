@@ -84,6 +84,11 @@ border: 3px solid #3882f6;
 display: flex;
 }
 
+.pairs {
+display: flex;
+flex-direction: column;
+}
+
 .quote {
 display: flex;
 }
