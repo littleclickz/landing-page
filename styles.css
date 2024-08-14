@@ -148,6 +148,7 @@ margin: 0;
 
 .cta p {
 margin: 0;
+color: #e5e7eb;
 }
 
 .cta a {
@@ -156,6 +157,8 @@ color: #f9faf8;
 
 .footer {
 display: flex;
+background-color: #1f2937;
+color: #f9faf8;
 }
 
 button {
