@@ -14,10 +14,14 @@
 .header {
     justify-content: space-between;
 }
+.header h3 {
+    margin-left: 175px;
+}
 
 ul {
     list-style: none;
     display: flex;
+    margin-right: 175px;
 }
 .info, .quote {
     display: flex;
