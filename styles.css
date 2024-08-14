@@ -91,6 +91,11 @@ align-items: center;
 .pairs {
 display: flex;
 flex-direction: column;
+justify-content: center;
+}
+
+.pairs p {
+text-align: center;
 }
 
 .quote {
