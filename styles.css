@@ -43,6 +43,7 @@ align-items: flex-start;
     color: #f9faf8;
     font-size: 48px;
     font-weight: extra-bold;
+    margin: 0;
 }
 
 .hero p {
