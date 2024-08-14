@@ -1,19 +1,22 @@
-.header {
+.header, .hero, .footer {
     display: flex;
     background-color: #1F2937;
 }
 
-.hero {
-    display: flex;
-    background-color: #1F2937;
+.header h3, .hero h1 a {
+    color: #f9faf8
 }
 
-.info {
+.header ul, .hero p {
+    color: #e5e7eb
+}
+
+.info, .quote {
     display: flex;
+    color: #1F2937
 }
 
 .quote {
-    display: flex;
     background-color: #e5e7eb;
 }
 
@@ -21,7 +24,6 @@
     display: flex;
 }
 
-.footer {
-    display: flex;
-    background-color: #1F2937;
+button {
+    background-color: #3882f6;
 }
