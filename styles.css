@@ -109,7 +109,7 @@ color: #1f2937;
 .quote {
 display: flex;
 background-color: #e5e7eb;
-padding: 125px 225px 110px 225px;
+padding: 125px 260px 110px 260px;
 color: #1f2937;
 flex-direction: column;
 }
@@ -126,6 +126,7 @@ align-self: flex-end;
 font-weight: bold;
 font-size: 24px;
 margin: 0;
+padding-right: 40px;
 }
 
 .cta {
