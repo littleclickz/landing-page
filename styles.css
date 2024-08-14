@@ -3,11 +3,11 @@
     background-color: #1F2937;
 }
 
-.header h3, .hero h1 a {
+.header h3, .hero h1, .hero a, .cta a {
     color: #f9faf8
 }
 
-.header ul, .hero p {
+.header a, .hero p {
     color: #e5e7eb
 }
 
