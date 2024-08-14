@@ -122,6 +122,8 @@ font-weight: 200;
 
 .quote p {
 align-self: flex-end;
+font-weight: bold;
+font-size: 24px;
 }
 
 .cta {
