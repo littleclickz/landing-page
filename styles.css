@@ -111,12 +111,17 @@ display: flex;
 background-color: #e5e7eb;
 padding: 125px 250px 110px 250px;
 color: #1f2937;
+flex-direction: column;
 }
 
 blockquote {
 font-size: 36px;
 font-style: italic;
 font-weight: 200;
+}
+
+.quote p {
+align-self: flex-end;
 }
 
 .cta {
