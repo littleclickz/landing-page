@@ -14,6 +14,11 @@
 .header {
     justify-content: space-between;
 }
+
+a {
+    text-decoration: none;
+}
+
 .header h3 {
     margin-left: 175px;
 }
@@ -24,6 +29,7 @@ ul {
     margin-right: 175px;
     gap: 16px;
 }
+
 .info, .quote {
     display: flex;
     color: #1F2937
