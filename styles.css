@@ -10,11 +10,12 @@ body {
 }
 
 .header h3, .hero h1, .hero a, .cta a {
-    color: #f9faf8
+    color: #f9faf8;
 }
 
 .header a, .hero p {
-    color: #e5e7eb
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 .header {
@@ -27,6 +28,7 @@ a {
 
 .header h3 {
     margin-left: 175px;
+    font-size: 24px;
 }
 
 ul {
@@ -38,7 +40,7 @@ ul {
 
 .info, .quote {
     display: flex;
-    color: #1F2937
+    color: #1F2937;
 }
 
 .quote {
