@@ -7,7 +7,7 @@ body {
 .header {
 background-color: #1f2937;
 display: flex;
-padding: 0px 850px 0px 850px;
+padding: 0px 200px 0px 200px;
 justify-content: space-between;
 align-items: center;
 margin: 0;
@@ -36,7 +36,7 @@ a {
 .hero {
 display: flex;
 background-color: #1f2937;
-padding: 72px 850px 72px 850px;
+padding: 72px 200px 72px 200px;
 align-items: stretch;
 justify-content: space-between;
 gap: 72px;
@@ -88,6 +88,6 @@ display: flex;
 button {
 background-color: #3882f6;
 max-width: 90px;
-padding-top: 8px;
-padding-bottom: 8px;
+padding-top: 4px;
+padding-bottom: 4px;
 }
