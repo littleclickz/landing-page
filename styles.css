@@ -1,62 +1,77 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 body {
     font-family: Roboto;
 }
+
 .header, .hero, .footer {
     display: flex;
     background-color: #1F2937;
 }
+
 .header h3, .hero h1, .hero a, .cta a {
     color: #f9faf8;
 }
+
 .header a, .hero p {
     color: #e5e7eb;
     font-size: 18px;
 }
+
 .header {
     justify-content: space-between;
     align-items: center;
 }
+
 a {
     text-decoration: none;
 }
+
 .header h3 {
     margin-left: 175px;
     font-size: 24px;
 }
+
 ul {
     list-style: none;
     display: flex;
     margin-right: 175px;
     gap: 16px;
 }
+
 .hero {
     padding: 150px 175px 150px 175px;
-    justify-content: space between;
 }
+
 .hero h1 {
     font-size: 48px;
     font-weight: extra-bold;
 }
+
 .info, .quote {
     display: flex;
     color: #1F2937;
 }
+
 .info h2 {
     font-size: 36px;
     font-weight: extra-bold;
 }
+
 .quote {
     background-color: #e5e7eb;
 }
+
 .quote blockquote {
     font-size: 36px;
     font-style: italic;
     font-weight: lighter;
 }
+
 .cta {
     display: flex;
 }
+
 button {
     background-color: #3882f6;
 }
