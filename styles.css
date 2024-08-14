@@ -53,6 +53,10 @@ padding: 56px 100px 56px 100px;
 color: #f9faf8;
 }
 
+.content {
+display: flex;
+}
+
 .info {
 display: flex;
 }
